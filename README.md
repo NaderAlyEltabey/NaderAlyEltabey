@@ -1,5 +1,5 @@
 # 💫 About Me:
-15+ years crafting full‑stack apps 🚀💻, ML models 🤖📊, and reliable DevOps pipelines ⚙️🛠️<br><br>Currently Owner of Code Point [Codepoint.codes] 🏢👨‍💻✨
+15+ years crafting full‑stack apps 🚀💻, ML models 🤖📊, and reliable DevOps pipelines ⚙️🛠️<br><br>Currently Owner of [Code Point](https://codepoint.codes) 🏢👨‍💻✨
 
 
 ## 🌐 Socials:
